@@ -1,4 +1,4 @@
-# Installation
+# Installing CommandPost
 
 You can download the latest release of CommandPost as an DMG package [here](http://commandpost.io).
 
