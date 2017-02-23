@@ -1,9 +1,11 @@
 # Summary
 
-## Overview
+## Getting Started
 
-* [My Awesome API](README.md)
+* [Installation](README.md)
+* [Uninstall](removing-commandpost.md)
 
-## Methods
+## The Menubar
 
-* [Defining Methods](methods.md)
+* [Introduction](methods.md)
+

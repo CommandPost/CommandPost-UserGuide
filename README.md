@@ -1,3 +1,6 @@
-# My Awesome API
+# Installation
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+You can download the latest release of CommandPost as an DMG package [here](http://commandpost.io).
+
+Once downloaded, simply open the package by double-clicking it, then drag the CommandPost Application into your Applications folder on your Mac. You can then double click on the CommandPost application to open it.
+
