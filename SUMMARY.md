@@ -2,11 +2,11 @@
 
 ## Getting Started
 
-* [Welcome](welcome.md)
+* [Welcome](README.md)
 * [Installation](README.md)
-* [Uninstall](removing-commandpost.md)
+* [Uninstall](uninstall.md)
 
 ## Menubar
 
-* [Menubar Basics](methods.md)
+* [Menubar Basics](menubar.md)
 
