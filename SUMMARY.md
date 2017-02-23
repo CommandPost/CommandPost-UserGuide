@@ -9,5 +9,7 @@
 ## Interface
 
 * [Menubar](menubar.md)
+* [Console](console.md)
 * [HUD](hud.md)
+* [Shortcuts](shortcuts.md)
 
