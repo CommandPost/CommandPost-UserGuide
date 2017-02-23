@@ -6,9 +6,8 @@
 * [Installation](/install.md)
 * [Uninstall](uninstall.md)
 
-## Menubar
+## Interface
 
-* [Menubar Basics](menubar.md)
-
-
+* [Menubar](menubar.md)
+* [HUD](hud.md)
 
