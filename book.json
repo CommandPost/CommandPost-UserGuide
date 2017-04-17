@@ -1,18 +1,25 @@
 {
-    "plugins": [ "theme-api" ],
-    "pluginsConfig": {
-        "theme-api": {
-            "languages": [
-                {
-                    "lang": "js",
-                    "name": "JavaScript",
-                    "default": true
-                },
-                {
-                    "lang": "go",
-                    "name": "Go"
-                }
-            ]
-        }
-    }
+	"plugins": [ "theme-api" ],
+	"pluginsConfig": {
+		"search": {
+        	"maxIndexSize": 1000000000
+        },
+		"lunr": {
+			"maxIndexSize": 1000000000
+		},
+		"theme-api": {
+			 "theme": "dark",
+			"languages": [
+				{
+					"lang": "lua",
+					"name": "Lua",
+					"default": true
+				},
+				{
+					"lang": "applescript",
+					"name": "AppleScript"
+				}
+			]
+		}
+	}
 }

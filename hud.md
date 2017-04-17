@@ -1,4 +1,0 @@
-# HUD
-
-Coming soon...
-

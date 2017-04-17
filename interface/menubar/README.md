@@ -1,0 +1,6 @@
+# Menubar
+---
+
+This page is under construction.
+
+The main interface for CommandPost is the menubar, which sits in your system’s menubar at the top right of the screen alongside other itmes such as the WiFi icon, Volume Control, Battery Information, Date & Time, and Spotlight. The menubar is split up into multiple sections, and offers a huge variety of different tools and features.

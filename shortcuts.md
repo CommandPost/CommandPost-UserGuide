@@ -1,4 +1,0 @@
-# Shortcuts
-
-Coming soon...
-

@@ -2,15 +2,18 @@
 
 ## Getting Started
 
-* [Welcome](README.md)
-* [Installation](/install.md)
-* [Uninstall](uninstall.md)
-* [Privacy Policy](privacy-policy.md)
+* [Introduction](README.md)
+* [Installation](getting_started/installation/README.md)
+* [Uninstall](getting_started/uninstall/README.md)
+* [Privacy Policy](getting_started/privacy_policy/README.md)
 
 ## Interface
 
-* [Menubar](menubar.md)
-* [Console](console.md)
-* [HUD](hud.md)
-* [Shortcuts](shortcuts.md)
+* [Menubar](interface/menubar/README.md)
+* [Console](interface/console/README.md)
+* [HUD](interface/hud/README.md)
+* [Shortcuts](interface/shortcuts/README.md)
 
+## Advanced
+
+* [Controlling CommandPost](advanced/controlling_commandpost/README.md)

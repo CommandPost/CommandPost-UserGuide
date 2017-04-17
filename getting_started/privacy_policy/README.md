@@ -3,7 +3,6 @@ title: Privacy Policy
 ---
 
 # Privacy Policy
-
 ---
 
 ### Facts:
