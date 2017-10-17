@@ -6,6 +6,7 @@
 * [Installation](getting_started/installation/README.md)
 * [Uninstall](getting_started/uninstall/README.md)
 * [Privacy Policy](getting_started/privacy_policy/README.md)
+* [Credits](getting_started/credits/README.md)
 
 ## Interface
 
