@@ -11,8 +11,8 @@
 * [Shortcuts](interface/shortcuts/README.md)
 * [Console](interface/console/README.md)
 * [HUD](interface/hud/README.md)
-* [Touch Bar](interface/touchbar/README.MD)
-* [Stream Deck](interface/streamdeck/README.MD)
+* [Touch Bar](interface/touchbar/README.md)
+* [Stream Deck](interface/streamdeck/README.md)
 
 ## Final Cut Pro
 
