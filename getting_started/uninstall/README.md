@@ -13,7 +13,7 @@ This file can also be dragged to the Trash to remove CommandPost’s Preferences
 
 Any user created Extensions, Plugins, Shortcuts or Tangent Settings are stored within:
 
-`~/Library/Preferences/Application Support/CommandPost`
+`~/Library/Application Support/CommandPost`
 
 These can be also be removed if required.
 
