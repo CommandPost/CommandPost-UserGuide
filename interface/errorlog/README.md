@@ -5,11 +5,11 @@ Because CommandPost is powered by a huge collection of Lua scripts, the Error Lo
 
 You can access the Error Log via the "Advanced" tab of CommandPost Preferences. There is also an option to "Open Error Log on Dock Icon Click".
 
-![Advanced Preferences](https://help.commandpost.io/images/advanced-preferences.png)
+![Advanced Preferences](../../advanced-preferences.png)
 
 Similar to `Console.app` in macOS, the Error Log basically displays all of CommandPost's log files for the current session:
 
-![Error Log](https://help.commandpost.io/images/error-log.png)
+![Error Log](../../error-log.png)
 
 In the menu bar, you can:
 
@@ -22,6 +22,6 @@ In the menu bar, you can:
 
 The text box at the bottom of the Error Log allows you to execute Lua Commands directly. This is really useful when developing CommandPost plugins. For example:
 
-![Error Log](https://help.commandpost.io/images/error-log-code.png)
+![Error Log](../../error-log-code.png)
 
 You can learn more about developing for CommandPost in the [Developers Guide](https://dev.commandpost.io).
