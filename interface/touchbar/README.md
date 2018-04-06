@@ -9,7 +9,7 @@ You can enable both options by going to the **Touch Bar** preferences panel in C
 
 It looks like this:
 
-![Touch Bar Preferences](../../touchbar-prefs.png)
+![Touch Bar Preferences](../../images/touchbar-prefs.png)
 
 ---
 
@@ -35,19 +35,19 @@ Much like [keyboard shortcuts](interface/shortcuts/README.md), there's both a Gl
 
 The first thing you need to do to take use of this functionality is make sure that **App Controls with Control Strip** is selected within the **Touch Bar shows** macOS System Preferences Keyboard panel, as shown here:
 
-![Touch Bar Preferences](../../touchbar-sysprefs.png)
+![Touch Bar Preferences](../../images/touchbar-sysprefs.png)
 
 What this does is enable the CommandPost icon to appear in the Control Strip, allowing you to enable our custom shortcuts.
 
-![Touch Bar](../../touchbar.jpg)
+![Touch Bar](../../images/touchbar.jpg)
 
 Once this is enabled, and **Enable Customised Touch Bar** is ticked, you can then assign Icons, Actions and Labels to buttons within the Preferences Panel, for example:
 
-![Touch Bar Items](../../touchbar-items.png)
+![Touch Bar Items](../../images/touchbar-items.png)
 
 Pressing the **Select** button for each column, will pop up a [Console](interface/console/README.md) allowing you to easily search for "actions". If you right click on the Console, you can also define what **Sections** you want to view, for example:
 
-![Touch Bar Sections](../../touchbar-sections.png)
+![Touch Bar Sections](../../images/touchbar-sections.png)
 
 There's also the option to **Favourite** or **Hide** items in the Console, and change your search options.
 
@@ -55,7 +55,7 @@ In the above screenshot, we've just enabled **Touch Bar Widgets**, which are act
 
 For example, the **Color Board (Grouped)** widget looks like this:
 
-![Color Board Widget](../../color-widget.jpg)
+![Color Board Widget](../../images/color-widget.jpg)
 
 This widget allows you to control Final Cut Pro's Color Board using your fingers, which is pretty awesome.
 

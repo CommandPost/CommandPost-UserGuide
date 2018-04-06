@@ -7,39 +7,39 @@ Once downloaded, simply open the package by double-clicking it.
 
 You will be presented with a MIT license agreement like the below - click **Agree** if you accept.
 
-![License Agreement](../../license-agreement.png)
+![License Agreement](../../images/license-agreement.png)
 
 The DMG package will open, looking like this:
 
-![Package Contents](../../commandpost-dmg.png)
+![Package Contents](../../images/commandpost-dmg.png)
 
 Double click the CommandPost icon. It will now ask you if you wish to move CommandPost to your Applications folder:
 
-![Move CommandPost](../../move-to-applications.png)
+![Move CommandPost](../../images/move-to-applications.png)
 
 Click **Move To Applications**. CommandPost will now launch the Welcome Screen:
 
-![Welcome Screen](../../welcome-1.png)
+![Welcome Screen](../../images/welcome-1.png)
 
 Click **CONTINUE**.
 
 You'll then be presented with the Accessibility Permissions screen:
 
-![Accessibility Panel](../../welcome-2.png)
+![Accessibility Panel](../../images/welcome-2.png)
 
 When you click **ENABLE ACCESSIBILITY**, macOS will present you with this:
 
-![Accessibility Permissions](../../welcome-3.png)
+![Accessibility Permissions](../../images/welcome-3.png)
 
 Click **Open System Preferences**.
 
 When the **Privacy** Tab of the **Security & Privacy** System Preferences opens, you'll see CommandPost in the "Allow the apps below to control your computer" list. However the panel is locked, so you need to click the paddock icon in the bottom left corner of the screen to make changes.
 
-![Accessibility Permissions](../../welcome-4.png)
+![Accessibility Permissions](../../images/welcome-4.png)
 
 Enter your computers password and press **Unlock**:
 
-![Accessibility Permissions](../../welcome-5.png)
+![Accessibility Permissions](../../images/welcome-5.png)
 
 Once the preferences are unlocked, you can tick CommandPost in the list. As soon as you click it, System Preferences will close, and you'll go back to the CommandPost setup:
 
@@ -47,7 +47,7 @@ Once the preferences are unlocked, you can tick CommandPost in the list. As soon
 
 **PLEASE NOTE:** This next setup screen has been removed in Beta 22 and later. However, you can still enable "Control CommandPost Shortcuts within Final Cut Pro" via the Final Cut Pro Preferences window.
 
-![Shortcuts](../../welcome-6.png)
+![Shortcuts](../../images/welcome-6.png)
 
 The next setup screen asks you whether you wish to use Final Cut Pro's Command Editor to control it's shortcuts, or the built-in CommandPost Shortcut Manager, which is found in the Shortcuts tab in CommandPost's Preferences.
 
@@ -59,7 +59,7 @@ Clicking either option will bring you to the final screen:
 
 ---
 
-![Setup Complete](../../welcome-7.png)
+![Setup Complete](../../images/welcome-7.png)
 
 Click **CLOSE**, and you're ready to use CommandPost!
 

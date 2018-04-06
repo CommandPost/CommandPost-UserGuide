@@ -16,11 +16,11 @@ There are also built-in shortcuts predefined for Final Cut Pro.
 
 You can customise the shortcuts keys in the **Shortcuts** Preferences panel - which can be accessed by pressing the **Preferences...** option near the bottom of the CommandPost menubar:
 
-![Menubar Preferences Item](../../menubar-prefs-item.png)
+![Menubar Preferences Item](../../images/menubar-prefs-item.png)
 
 This is what the Shortcut Preferences panel looks like:
 
-![Shortcut Preferences](../../shortcuts-prefs.png)
+![Shortcut Preferences](../../images/shortcuts-prefs.png)
 
 The top drop-down allows you to select between Global Shortcuts or application specific shortcuts (currently limited to Final Cut Pro).
 
@@ -34,7 +34,7 @@ There is also a **Reset to Default Shortcuts** button, which resets all the shor
 
 When you first install CommandPost you'll be presented with the following setup screen:
 
-![Shortcuts](../../welcome-6.png)
+![Shortcuts](../../images/welcome-6.png)
 
 This setup screen asks you whether you wish to use Final Cut Pro's Command Editor to control it's shortcuts, or the built-in CommandPost Shortcut Manager, as explained above.
 
@@ -46,8 +46,8 @@ If you select **USE COMMANDPOST**, then you can setup your CommandPost Final Cut
 
 This option can be changed with the **Final Cut Pro** CommandPost Preferences:
 
-![Shortcuts](../../shortcuts-fcp.png)
+![Shortcuts](../../images/shortcuts-fcp.png)
 
 This is how they appear in the Command Editor:
 
-![Shortcuts](../../command-editor.png)
+![Shortcuts](../../images/command-editor.png)

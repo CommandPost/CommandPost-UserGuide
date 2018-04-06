@@ -9,13 +9,13 @@ The "Global Console" allows you to trigger actions from any application. By defa
 
 With CommandPost running after an initial install, if you press **CONTROL + OPTION + COMMAND + SPACE** on your keyboard, it will open the Global Console, which looks like this:
 
-![Global Console](../../global-console.png)
+![Global Console](../../images/global-console.png)
 
 With a similar interface to [Alfred](https://www.alfredapp.com) you can then search for any Global action and trigger it.
 
 If you right-click on the Console, you'll see the follow menu:
 
-![Global Console](../../global-console-context.png)
+![Global Console](../../images/global-console-context.png)
 
 This allows you to:
 
@@ -31,17 +31,17 @@ However, this isn't the only instance of the Console - we use it right throughou
 
 For example, with CommandPost running after an initial install, and Final Cut Pro open and active, if you press **CONTROL + SPACE** on your keyboard, this will "Activate Console".
 
-![Final Cut Pro Console](../../fcpx-console.png)
+![Final Cut Pro Console](../../images/fcpx-console.png)
 
 As you see in the above screenshot, it's exactly the same interface as the "Global Console", but with more/different sections.
 
 We also use the Console in the Preferences panel for selecting actions. For example, in the Touch Bar Preferences you'll see the "Select" button in the Layout Editor:
 
-![Touch Bar Preferences](../../action-button.png)
+![Touch Bar Preferences](../../images/action-button.png)
 
 This opens a Console, allowing you to select an Action for this Touch Bar Item:
 
-![Touch Bar Preferences](../../touch-bar-console.png)
+![Touch Bar Preferences](../../images/touch-bar-console.png)
 
 Each Console remembers it's own settings (i.e. selected sections, favourites, hides, remember the last query entered, etc.).
 
