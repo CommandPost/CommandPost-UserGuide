@@ -1,66 +1,83 @@
-# Touch Bar
+# Tangent
 ---
 
-If you're running **macOS Sierra 10.12.1** or above, you can make use of CommandPost's awesome Touch Bar features.
+CommandPost offers native support of the entire range of Tangent's panels, including the Arc, Element, Wave & Wave2, Ripple, the Element-Vs iPad & Android app, and any future panels.
 
-There's both a **Virtual Touch Bar**, which displays a Touch Bar on your computer screen, and the ability to add custom items to both the virtual and physical Touch Bar.
-
-You can enable both options by going to the **Touch Bar** preferences panel in CommandPost Preferences, via clicking the **Preferences...** option towards the bottom of the CommandPost menubar.
-
-It looks like this:
-
-![Touch Bar Preferences](../../images/touchbar-prefs.png)
+element-Vs free (Android) and element-Vs sample (iPad) are the free version which allows you to try every feature of the app. The free version is fully featured so you get to use every aspect of the app, the only limitation being that you can only use it for a total of an hour in any day.
 
 ---
 
-## Virtual Touch Bar
----
+## Setup
 
-The **Virtual Touch Bar** is fairly straight forward - it draws a Touch Bar on your Mac's screen, and you can use your mouse to control it.
+To setup Tangent support, from the CommandPost menubar, click "Preferences..." near the bottom:
 
-Once enabled via the Preferences, you have two other options:
+![Preferences](../../images/preferences.png)
 
-* **Visibility:** allows you to either only have the Virtual Touch Bar showing when Final Cut Pro is active, or have it active the entire time.
-* **Location:** Allows you to make it draggable (by holding down the OPTION key and dragging with your mouse), stick to the Top Centre of the Timeline, or the Centre of the Mouse location (when it's first shown).
+Then click the "Tangent" tab:
 
-You can toggle the Virtual Touch Bar via shortcut keys (the default shortcut key is **CONTROL + OPTION + COMMAND + Z** within Final Cut Pro), or assign it to a HUD, Touch Bar or Stream Deck button.
+![Tangent Preferences](../../images/tangent-preferences.png)
 
----
+If you don't already have the Tangent Hub software installed, click the "Download Tangent Hub" button to get it.
 
-## Custom Touch Bar
+Once the latest version of Tangent Hub is installed, you can click "Enable Tangent Panel Support".
 
-The custom Touch Bar is incredibly powerful and versatile - it allows you to assign ANY action in CommandPost to a custom Touch Bar button.
+This will connect CommandPost to the Tangent Hub, allowing you to use the Tangent Mapper application to customise your panel layout.
 
-Much like [keyboard shortcuts](interface/shortcuts/README.md), there's both a Global Touch Bar, and application specific Touch Bars - currently limited to Final Cut Pro.
+Click "Open Tangent Mapper" to open Tangent Mapper.
 
-The first thing you need to do to take use of this functionality is make sure that **App Controls with Control Strip** is selected within the **Touch Bar shows** macOS System Preferences Keyboard panel, as shown here:
+![Tangent Mapper](../../images/tangent-mapper.png)
 
-![Touch Bar Preferences](../../images/touchbar-sysprefs.png)
+Tangent Mapper should automatically load with the CommandPost Default controls.
 
-What this does is enable the CommandPost icon to appear in the Control Strip, allowing you to enable our custom shortcuts.
+If for some strange reason it doesn't, click the "Select Application" menu bar and make sure CommandPost is selected, or that "Auto-select Application" is selected and CommandPost has a triangle icon next to it.
 
-![Touch Bar](../../images/touchbar.jpg)
+![Select Application](../../images/tangent-application.png)
 
-Once this is enabled, and **Enable Customised Touch Bar** is ticked, you can then assign Icons, Actions and Labels to buttons within the Preferences Panel, for example:
+If you've been using a previous version of CommandPost, and have built your own custom layouts, if you want to restore the default layout select "File > Manage Control Maps...":
 
-![Touch Bar Items](../../images/touchbar-items.png)
+![Tangent Preferences](../../images/tangent-manage-control-maps.png)
 
-Pressing the **Select** button for each column, will pop up a [Console](interface/console/README.md) allowing you to easily search for "actions". If you right click on the Console, you can also define what **Sections** you want to view, for example:
+Then with the CommandPost Application selected in the top section, delete any custom Control Maps for CommandPost in the bottom section:
 
-![Touch Bar Sections](../../images/touchbar-sections.png)
+![Map Management](../../images/tangent-map-management.png)
 
-There's also the option to **Favourite** or **Hide** items in the Console, and change your search options.
+By default CommandPost will disable the built-in Final Cut Pro control map.
 
-In the above screenshot, we've just enabled **Touch Bar Widgets**, which are actually a bit more special than normal buttons. With widgets, the icon and label columns in the Preferences are ignored, and you're given a custom interface.
+By default CommandPost has four built-in "modes":
 
-For example, the **Color Board (Grouped)** widget looks like this:
+- **Global**
+- **FCP: Board**
+- **FCP: Wheels**
+- **FCP: Video**
 
-![Color Board Widget](../../images/color-widget.jpg)
+You can configure each mode by click the mode tab at the top of the interface.
 
-This widget allows you to control Final Cut Pro's Color Board using your fingers, which is pretty awesome.
+You can then customise layouts for each type of panel (i.e. Ripple, Element, or Wave).
 
-If you don't have a physical Touch Bar, you can also use [Duet](https://www.duetdisplay.com) to view the Color Board Widget on your iPad.
+The Wave has multiple banks for knobs and buttons.
 
-At the bottom of the Touch Bar Preferences screen there's an option to **Reset All Touch Bar Items** which will set all the Touch Bar Items to None.
+Please refer to the Tangent Mapper [User Manual](http://www.tangentwave.co.uk/tangent-support/) for further information.
 
-You can toggle the Custom Touch Bar via shortcut keys, or assign the toggle to a HUD, Touch Bar or Stream Deck button.
+CommandPost adds a huge amount of Final Cut Pro Parameters into Tangent Mapper which you can allocated to whichever button, knob or wheel you want.
+
+![Tangent Controls](../../images/tangent-controls.png)
+
+Another powerful feature is that via the Tangent tab of the CommandPost Preferences is a "Favourites" section:
+
+![Tangent Favourites](../../images/tangent-favourites.png)
+
+This feature allows you to assign ANY CommandPost action to a Tangent Favourite, which you can then access from within the Tangent Mapper.
+
+Simply click the "Select" button for whichever Favourite you want to assign, then use the Console to select the action you want.
+
+You can learn more about the Console [here](https://help.commandpost.io/interface/console).
+
+Once you've selected an action via the Console:
+
+![Tangent Favourites](../../images/tangent-favourite-prefs.png)
+
+It will then appear in Tangent Mapper:
+
+![Tangent Favourites](../../images/tangent-mapper-favourite.png)
+
+You can customise the Tangent panels however you want, and share your layouts with your friends via the Tangent Mapper.
