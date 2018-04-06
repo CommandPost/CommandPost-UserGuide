@@ -43,6 +43,10 @@ Enter your computers password and press **Unlock**:
 
 Once the preferences are unlocked, you can tick CommandPost in the list. As soon as you click it, System Preferences will close, and you'll go back to the CommandPost setup:
 
+---
+
+**PLEASE NOTE:** This next setup screen has been removed in Beta 22 and later. However, you can still enable "Control CommandPost Shortcuts within Final Cut Pro" via the Final Cut Pro Preferences window.
+
 ![Shortcuts](https://help.commandpost.io/images/welcome-6.png)
 
 The next setup screen asks you whether you wish to use Final Cut Pro's Command Editor to control it's shortcuts, or the built-in CommandPost Shortcut Manager, which is found in the Shortcuts tab in CommandPost's Preferences.
@@ -52,6 +56,8 @@ If you select **USE FINAL CUT PRO**, you'll be asked for your Administrator pass
 If you select **USE COMMANDPOST**, then you can setup your CommandPost shortcuts via the Shortcuts tab in CommandPost's Preferences.
 
 Clicking either option will bring you to the final screen:
+
+---
 
 ![Setup Complete](https://help.commandpost.io/images/welcome-7.png)
 

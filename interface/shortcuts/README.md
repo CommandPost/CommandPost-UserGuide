@@ -28,6 +28,10 @@ The left column (Label), contains all of the Actions available as shortcuts for 
 
 There is also a **Reset to Default Shortcuts** button, which resets all the shortcuts to how they appeared when CommandPost was first installed, and a **Set All Shortcuts to None**, which sets all shortcuts to None.
 
+---
+
+**PLEASE NOTE:** The setup screen described below has been removed in Beta 22 and later. However, you can still enable "Control CommandPost Shortcuts within Final Cut Pro" via the Final Cut Pro Preferences window.
+
 When you first install CommandPost you'll be presented with the following setup screen:
 
 ![Shortcuts](https://help.commandpost.io/images/welcome-6.png)
@@ -37,6 +41,8 @@ This setup screen asks you whether you wish to use Final Cut Pro's Command Edito
 If you select **USE FINAL CUT PRO**, you'll be asked for your Administrator password. Once done, CommandPost will add all it's own shortcuts (for example, "Enable Scrolling Timeline") to Final Cut Pro's own Command Editor for easy access.
 
 If you select **USE COMMANDPOST**, then you can setup your CommandPost Final Cut Pro shortcuts via the Shortcuts tab in CommandPost's Preferences.
+
+---
 
 This option can be changed with the **Final Cut Pro** CommandPost Preferences:
 

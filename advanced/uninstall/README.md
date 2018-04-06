@@ -19,8 +19,10 @@ These can be also be removed if required.
 
 CommandPost's WebKit, Crashlytics & Sparkle caches are stored within:
 
-`~/Library/Application Support/org.latenitefilms.CommandPost`
-`~/Library/Caches/org.latenitefilms.CommandPost`
-`~/Library/WebKit/org.latenitefilms.CommandPost`
+```
+~/Library/Application Support/org.latenitefilms.CommandPost
+~/Library/Caches/org.latenitefilms.CommandPost
+~/Library/WebKit/org.latenitefilms.CommandPost
+```
 
 These folders can also be removed if required.
