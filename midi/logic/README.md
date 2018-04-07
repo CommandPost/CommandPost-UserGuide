@@ -28,7 +28,7 @@ If you set CommandPost to "Transmit MMC", the opposite will occur. If you start 
 
 ---
 
-## Why not MIDI Time Code (MTC)?
+## Why not use MIDI Time Code (MTC)?
 
 To give you some geeky backstory first, MIDI time code (MTC) embeds the same timing information as standard SMPTE timecode as a series of small 'quarter-frame' MIDI messages.
 
@@ -58,6 +58,14 @@ Also, the only way we can "read" the current timecode from Final Cut Pro is by m
 Given these issues, even though we have check boxes for MTC in the CommandPost MIDI Preferences, and we are actually "watching" for these MTC triggers in CommandPost behind the scenes, currently we haven't implemented any functionality that allows Final Cut Pro to be triggered or trigger other applications via MTC... yet. We're actively exploring possible solutions and workarounds, so fingers crossed we come up with something clever.
 
 However, if you are developing your own plugins for CommandPost (I'm looking at you Sarah), you do now have full access to this incoming and outgoing MTC data, so you can do what you want with these callbacks.
+
+---
+
+## Troubleshooting
+
+MIDI Monitor is an app to display MIDI signals going in and out of your Mac. CommandPost users will find it handy for tracking down confusing MIDI problems, and plugin developers can use it to test MIDI drivers and applications.
+
+MIDI Monitor is [free to download](https://www.snoize.com/MIDIMonitor/) and use.
 
 ---
 
