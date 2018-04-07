@@ -22,9 +22,9 @@ These are "System Exclusive" (SysEx) messages, specifically Real Time Universal 
 
 The way we currently sync Final Cut Pro and Logic currently is fairly basic and not "true" synchronisation.
 
-For example, if you set CommandPost to "Listen to MMC Input", when you send CommandPost a "Play" command, Final Cut Pro will start playing. CommandPost supports the GOTO, PLAY and STOP commands.
+For example, if you set CommandPost to "Listen to MMC Input", when you send CommandPost a `PLAY` command, Final Cut Pro will start playing. CommandPost supports the `GOTO`, `PLAY` and `STOP` commands.
 
-If you set CommandPost to "Transmit MMC", the opposite will occur. If you press "Play" in Final Cut Pro, it will send a MMC message to whatever device you specify, causing any external MIDI devices to "Play". Before it sends the play signal it sends the current timecode value.
+If you set CommandPost to "Transmit MMC", the opposite will occur. If you start playing in Final Cut Pro, it will send a MMC message to whatever device you specify, causing any external MIDI devices to start playing. Before it sends the play signal it sends the current timecode value, to keep things in sync. But once playing, there's not accounting for lag or dropped frames, so things may drift over time.
 
 ---
 
@@ -51,13 +51,13 @@ MTC distinguishes between film speed and video speed only by the rate at which t
 
 MTC allows the synchronisation of a sequencer or DAW with other devices that can synchronise to MTC or for these devices to 'slave' to a tape machine that is striped with SMPTE. For this to happen a SMPTE to MTC converter needs to be employed. It is possible for a tape machine to synchronise to an MTC signal (if converted to SMPTE), if the tape machine is able to 'slave' to incoming timecode via motor control, which is a rare feature.
 
-Now, whilst all this sounds great, and in theory CommandPost can fully support MTC, the issue is, currently the only way we know how to control the playhead position in Final Cut Pro is by "clicking" the Viewer's timecode value and entering in a timecode value. This makes it impractical for controlling Final Cut Pro from an external device transmitting MTC.
+Now, whilst all this sounds great, and in theory CommandPost can fully support MTC, the issue is, currently the only way we know how to control the playhead position in Final Cut Pro is by "clicking" the Viewer's timecode value and entering in a timecode value. This makes it impractical for controlling Final Cut Pro from an external device transmitting MTC on a regular interval.
 
 Also, the only way we can "read" the current timecode from Final Cut Pro is by monitoring either the Viewer Timecode Display or the Playhead Timecode Value (using the Accessibility Framework), however, as of Final Cut Pro 10.4 it doesn't seem like the Timecode Viewer nor the playhead accurately "keeps up" with realtime playback.
 
-Given these issues, even though we have check boxes for MTC in the CommandPost MIDI Preferences - and we are "watching" for these trigger in CommandPost behind the scenes, currently we haven't implemented any functionality for MTC & Final Cut Pro... yet.
+Given these issues, even though we have check boxes for MTC in the CommandPost MIDI Preferences, and we are actually "watching" for these MTC triggers in CommandPost behind the scenes, currently we haven't implemented any functionality that allows Final Cut Pro to be triggered or trigger other applications via MTC... yet. We're actively exploring possible solutions and workarounds, so fingers crossed we come up with something clever.
 
-However, if you are developing your own scripts with CommandPost you have full access to this incoming and outgoing MTC data.
+However, if you are developing your own plugins for CommandPost (I'm looking at you Sarah), you do now have full access to this incoming and outgoing MTC data, so you can do what you want with these callbacks.
 
 ---
 
@@ -66,8 +66,6 @@ However, if you are developing your own scripts with CommandPost you have full a
 There seems to be a [known bug](https://www.logicprohelp.com/forum/viewtopic.php?t=119814) with Apple's IAC Driver that means it doesn't correctly pass through MMC messages.
 
 To get around this we use [MidiPipe 1.4.6](http://www.subtlesoft.square7.net).
-
----
 
 Firstly, let's enable and rename the IAC Driver:
 
@@ -89,7 +87,11 @@ Firstly, let's enable and rename the IAC Driver:
 
 ---
 
-Now we can setup MidiPipe.
+## Setup MidiPipe
+
+MidiPipe is freeware that can be useful in a music studio, live on stage or in this case, in an edit suite, to route, map, filter, convert, display, input and output MIDI messages in real-time.
+
+We'll be using MidiPipe to get around the IAC Driver bug.
 
 1. Download [MidiPipe 1.4.6](http://www.subtlesoft.square7.net).
 
