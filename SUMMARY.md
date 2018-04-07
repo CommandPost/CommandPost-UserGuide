@@ -27,6 +27,10 @@
 * [Moving Markers](finalcutpro/moving_markers/README.md)
 * [Sending Apple Feedback](finalcutpro/sending_apple_feedback/README.md)
 
+## MIDI
+
+* [Syncing Final Cut Pro with Logic](midi/logic/README.md)
+
 ## Plugins
 
 * [Introduction](plugins/introduction/README.md)
