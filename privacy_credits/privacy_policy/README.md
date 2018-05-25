@@ -9,7 +9,7 @@ By using our site and products, you consent to this privacy policy.
 
 ---
 
-### Facts:
+## Facts:
 * CommandPost uses [Crashlytics](https://fabric.io) to collect information about crashes in the application and extensions (hereafter known as `Crash Data`).
 * Crashlytics is [owned by Google](https://fabric.io/blog/fabric-joins-google).
 * Audience Insights is a Crashlytics feature that benefits from an integration between [Answers](https://answers.io) and [Twitter](https://twitter.com). We use this feature to gather anonymous data about where CommandPost users are located in the world, so that we can make informed decisions about possible translations, and keyboard/language support.
@@ -28,7 +28,7 @@ By using our site and products, you consent to this privacy policy.
 
 ---
 
-### Why do we do this?
+## Why do we do this?
 * It is very important to us that CommandPost contain as few bugs as possible, particularly ones which case it to crash.
 * We need your help to make this happen, so we collect low level information about which part of CommandPost has caused a crash, so we can fix it.
 
