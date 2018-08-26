@@ -3,7 +3,11 @@
 
 Because CommandPost is powered by a huge collection of Lua scripts, the Error Log is one of the most important places in CommandPost to track down bugs and issues.
 
-You can access the Error Log via the "Advanced" tab of CommandPost Preferences. There is also an option to "Open Error Log on Dock Icon Click".
+You can access the Error Log via the "Help & Support > CommandPost" section of the menubar:
+
+![Open Error Log](../../images/open-error-log.png)
+
+There is also an option to "Open Error Log on Dock Icon Click", which is 'on' by default:
 
 ![Advanced Preferences](../../images/advanced-preferences.png)
 

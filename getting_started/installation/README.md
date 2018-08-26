@@ -43,23 +43,15 @@ Enter your computers password and press **Unlock**:
 
 Once the preferences are unlocked, you can tick CommandPost in the list. As soon as you click it, System Preferences will close, and you'll go back to the CommandPost setup:
 
----
+![Scan Final Cut Pro](../../images/welcome-6.png)
 
-**PLEASE NOTE:** This next setup screen has been removed in Beta 22 and later. However, you can still enable "Control CommandPost Shortcuts within Final Cut Pro" via the Final Cut Pro Preferences window.
+When you click **START SCAN** CommandPost will begin scanning your system for Final Cut Pro Plugins & Motion Templates. This process can take several minutes to complete.
 
-![Shortcuts](../../images/welcome-6.png)
+![Scanning](../../images/welcome-7.png)
 
-The next setup screen asks you whether you wish to use Final Cut Pro's Command Editor to control it's shortcuts, or the built-in CommandPost Shortcut Manager, which is found in the Shortcuts tab in CommandPost's Preferences.
+Once the scanning is complete you'll be presented with:
 
-If you select **USE FINAL CUT PRO**, you'll be asked for your Administrator password. Once done, CommandPost will add all it's own shortcuts (for example, "Enable Scrolling Timeline") to Final Cut Pro's own Command Editor for easy access.
-
-If you select **USE COMMANDPOST**, then you can setup your CommandPost shortcuts via the Shortcuts tab in CommandPost's Preferences.
-
-Clicking either option will bring you to the final screen:
-
----
-
-![Setup Complete](../../images/welcome-7.png)
+![Scanning](../../images/welcome-8.png)
 
 Click **CLOSE**, and you're ready to use CommandPost!
 

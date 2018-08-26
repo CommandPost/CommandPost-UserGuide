@@ -4,6 +4,8 @@
 
 * [Introduction](README.md)
 * [Installation](getting_started/installation/README.md)
+* [Features](getting_started/features/README.md)
+* [Uninstall](getting_started/uninstall/README.md)
 
 ## Interface
 
@@ -24,7 +26,7 @@
 * [Shared XMLs](finalcutpro/shared_xmls/README.md)
 * [Mobile Notifications](finalcutpro/mobile_notifications/README.md)
 * [Voice Commands](finalcutpro/voice_commands/README.md)
-* [Moving Markers](finalcutpro/moving_markers/README.md)
+* [Moveable Markers](finalcutpro/moveable_markers/README.md)
 * [Sending Apple Feedback](finalcutpro/sending_apple_feedback/README.md)
 
 ## MIDI
@@ -38,7 +40,6 @@
 ## Advanced
 
 * [Controlling CommandPost](advanced/controlling_commandpost/README.md)
-* [Uninstall](advanced/uninstall/README.md)
 
 ## Privacy & Credits
 
