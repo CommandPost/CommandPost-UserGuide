@@ -4,7 +4,7 @@
 
 * [Introduction](README.md)
 * [Installation](getting_started/installation/README.md)
-* [FAQ](getting_started/faq/README.md)
+* [FAQ](faq/README.md)
 * [Features](getting_started/features/README.md)
 * [Uninstall](getting_started/uninstall/README.md)
 
