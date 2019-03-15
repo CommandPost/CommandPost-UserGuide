@@ -1,9 +1,19 @@
 # Syncing Final Cut Pro with Logic
 ---
 
+## Important Change
+
+As of Beta 40 we decided to remove this functionality, as very few people were actually using it.
+
+You can still continue to use Beta 40 if you want to sync Final Cut Pro with Logic.
+
+If you disagree with our decision, please [get in touch](https://github.com/CommandPost/CommandPost/issues).
+
+---
+
 ## Requirements
 
-* [CommandPost Beta 22 or later](http://commandpost.io)
+* [CommandPost Beta 22 to 39](http://commandpost.io)
 * [Final Cut Pro 10.4 or later](https://www.apple.com/au/final-cut-pro/)
 * [Logic 10.4 or later](https://www.apple.com/au/logic-pro/)
 * [MidiPipe 1.4.6](http://www.subtlesoft.square7.net)

@@ -4,6 +4,7 @@
 
 * [Introduction](README.md)
 * [Installation](getting_started/installation/README.md)
+* [FAQ](getting_started/faq/README.md)
 * [Features](getting_started/features/README.md)
 * [Uninstall](getting_started/uninstall/README.md)
 
@@ -23,10 +24,8 @@
 * [Scrolling Timeline](finalcutpro/scrolling_timeline/README.md)
 * [Watch Folders](finalcutpro/watch_folders/README.md)
 * [Shared Clipboard](finalcutpro/shared_clipboard/README.md)
-* [Shared XMLs](finalcutpro/shared_xmls/README.md)
 * [Mobile Notifications](finalcutpro/mobile_notifications/README.md)
 * [Voice Commands](finalcutpro/voice_commands/README.md)
-* [Moveable Markers](finalcutpro/moveable_markers/README.md)
 * [Sending Apple Feedback](finalcutpro/sending_apple_feedback/README.md)
 
 ## MIDI

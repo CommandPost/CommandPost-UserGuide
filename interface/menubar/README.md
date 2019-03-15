@@ -5,6 +5,10 @@ The main interface for CommandPost is the menubar, which sits in your system’s
 
 ![Menubar](../../images/menubar.png)
 
+The menubar is contextual, so it will show different things depending on the active application. For example, when Final Cut Pro X is active, you'll see something similar to this:
+
+![Menubar](../../images/fcpx-menubar.png)
+
 The menubar is split up into multiple sections, and offers a huge variety of different tools and features.
 
 By default, the menubar is pretty jam-packed with heaps of options and functionality. If you find it too daunting, you can adjust what sections are shown in the menubar via the Menubar Preferences panel.

@@ -1,18 +1,72 @@
 # HUD
 ---
 
-The HUD stands for "Heads Up Display" and allows you to display a bunch of additional information and buttons with Final Cut Pro, for example:
+The HUD stands for "Heads Up Display" and provides a whole range of handy tools within Final Cut Pro.
 
-![HUD](../../images/hud.png)
+The default shortcut to activate it is **CONTROL+OPTION+COMMAND+A**.
 
-You can assign actions to the HUD buttons via the menubar:
+You can also enable it via the menubar when Final Cut Pro is active, or assign it to a Tangent, MIDI or Touch Bar button.
 
-![HUD Buttons](../../images/hud-buttons.png)
+It has a customisable toolbar, which allows you to access various panels.
 
-You can also choose what "sections" of the HUD you want to view via the menubar:
+---
 
-![HUD Sections](../../images/hud-sections.png)
+## Minimise
 
-The **Show Drop Targets** will only be enabled if **Shared XML Files** is enabled in the menubar.
+![HUD](../../images/hud-min.png)
 
-![HUD XML](../../images/hud-xml.png)
+This is basically just an empty panel, making the HUD footprint very small, yet still easily accessible.
+
+---
+
+## Info
+
+![HUD](../../images/hud-info.png)
+
+This panel allows you to very easily see your media, quality and background render settings.
+
+If there's additional information you'd like to see on this panel, please [let us know](https://github.com/CommandPost/CommandPost/issues).
+
+---
+
+## Browser Search
+
+![HUD](../../images/hud-search.png)
+
+This is an incredibly powerful search tool that allows you to easily search all the Browser columns.
+
+---
+
+## Buttons
+
+![HUD](../../images/hud-buttons10.png)
+
+![HUD](../../images/hud-buttons12.png)
+
+![HUD](../../images/hud-buttons24.png)
+
+We have three different sized button panels. You can assign an action to each button, and also provide a custom name to the buttons by right clicking on them.
+
+---
+
+## Notes
+
+![HUD](../../images/hud-notes.png)
+
+We also have a basic text editor which allows you to save notes both at the system level, but also the individual library level, so that your notes can travel around with your library between machines.
+
+---
+
+## FCPXML Editor
+
+![HUD](../../images/hud-fcpxml.png)
+
+We have a basic FCPXML editor, which allows you to drag any items from the Final Cut Pro browser to the HUD drop zone, modify the text in the editor, then send back to Final Cut Pro.
+
+---
+
+## Pasteboard Editor
+
+![HUD](../../images/hud-pasteboard.png)
+
+Similar to the FCPXML Editor, this panel allows you to easily manipulate the contents of the Final Cut Pro Pasteboard.

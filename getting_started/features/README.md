@@ -1,7 +1,11 @@
 # Features
 ---
 
-This page contains a list of all the "commands" available in the Shortcut Preferences.
+This page contains a list of some of the actions available in the Shortcut Preferences panel.
+
+Eventually we plan to add documentation for each item.
+
+Please [let us know](https://github.com/CommandPost/CommandPost/issues) if there's anything you want us to cover.
 
 ---
 
