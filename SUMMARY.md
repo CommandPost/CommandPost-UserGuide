@@ -38,6 +38,7 @@
 
 ## Advanced
 
+* [Snippets](advanced/snippets/README.md)
 * [Controlling CommandPost](advanced/controlling_commandpost/README.md)
 
 ## Privacy & Credits
