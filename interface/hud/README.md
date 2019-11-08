@@ -39,11 +39,11 @@ This is an incredibly powerful search tool that allows you to easily search all 
 
 ## Buttons
 
-![HUD](../../images/hud-buttons10.png)
+![HUD](../../images/hud-buttons-10.png)
 
-![HUD](../../images/hud-buttons12.png)
+![HUD](../../images/hud-buttons-12.png)
 
-![HUD](../../images/hud-buttons24.png)
+![HUD](../../images/hud-buttons-24.png)
 
 We have three different sized button panels. You can assign an action to each button, and also provide a custom name to the buttons by right clicking on them.
 

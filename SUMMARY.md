@@ -12,7 +12,7 @@
 
 * [Menubar](interface/menubar/README.md)
 * [Shortcuts](interface/shortcuts/README.md)
-* [Console](interface/console/README.md)
+* [Search Console](interface/console/README.md)
 * [HUD](interface/hud/README.md)
 * [Touch Bar](interface/touchbar/README.md)
 * [Stream Deck](interface/streamdeck/README.md)
@@ -25,12 +25,7 @@
 * [Watch Folders](finalcutpro/watch_folders/README.md)
 * [Shared Clipboard](finalcutpro/shared_clipboard/README.md)
 * [Mobile Notifications](finalcutpro/mobile_notifications/README.md)
-* [Voice Commands](finalcutpro/voice_commands/README.md)
 * [Sending Apple Feedback](finalcutpro/sending_apple_feedback/README.md)
-
-## MIDI
-
-* [Syncing Final Cut Pro with Logic](midi/logic/README.md)
 
 ## Plugins
 
