@@ -15,6 +15,8 @@ We want CommandPost to be as safe and reliable as possible, and we want to avoid
 
 The easiest way to enable Moveable Markers is via Terminal.
 
+The below assumes you have Final Cut Pro installed within the `/Applications` folder.
+
 This will enable them:
 
 `sudo /usr/libexec/PlistBuddy -c "Set :TLKMarkerHandler:Configuration:'Allow Moving Markers' true" '/Applications/Final Cut Pro.app/Contents/Frameworks/TLKit.framework/Versions/A/Resources/EventDescriptions.plist'`
