@@ -26,6 +26,7 @@
 * [Shared Clipboard](finalcutpro/shared_clipboard/README.md)
 * [Mobile Notifications](finalcutpro/mobile_notifications/README.md)
 * [Sending Apple Feedback](finalcutpro/sending_apple_feedback/README.md)
+* [3rd Party Tools](finalcutpro/3rd_party_tools/README.md)
 
 ## Plugins
 
