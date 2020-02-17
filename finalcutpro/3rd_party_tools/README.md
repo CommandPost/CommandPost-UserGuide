@@ -32,6 +32,18 @@ Media teams work and collaborate more effectively with ShareBrowser.
 
 ## Paid
 
+[**Library Inspector for Final Cut Pro**](https://tommikivimaki.com/apps/libi/index.html)
+Libi let's you inspect Final Cut Pro libraries. You can quickly look inside a library to get the information when it was created, last modified and how much disk space it consumes.
+
+[**MergeX**](http://www.merge.software)
+Merge your FCPX events without losing any keywords, ratings, roles, metadata, etc.
+
+[**Csv to Motn Generator**](https://www.htjelta.com/csv-to-motn-generator/)
+Creates Motion Projects from the contents of a CSV file.
+
+[**X-Wiper**](https://www.htjelta.com/x-wiper/)
+Delete unnecessary FCPX files.
+
 [**Digital Rebellion**](https://www.digitalrebellion.com)
 Awesome maintenance and workflow tools for video professionals.
 
