@@ -33,45 +33,55 @@ cp.apple.finalcutpro:timeline():contents():selectClips(evenClips)
 ## Go back 500 frames and play
 
 ```lua
-hs.eventtap.keyStroke({}, "-")
-hs.eventtap.keyStrokes("2000")
+hs.eventtap.keyStroke({}, "-", 0)
+hs.eventtap.keyStroke({}, "2", 0)
+hs.eventtap.keyStroke({}, "0", 0)
+hs.eventtap.keyStroke({}, "0", 0)
+hs.eventtap.keyStroke({}, "0", 0)
 hs.eventtap.keyStroke({}, "return")
 cp.apple.finalcutpro:doShortcut("JogForward"):Now()
 ```
 
 ## Audio Cross Dissolve Backward (J-Cut)
 ```lua
-hs.eventtap.keyStroke({"shift"}, "]")
-hs.eventtap.keyStroke({}, "-")
-hs.eventtap.keyStrokes("10")
-hs.eventtap.keyStroke({}, "return")
-hs.eventtap.keyStroke({"cmd"}, "up")
+hs.eventtap.keyStroke({"shift"}, "]", 0)
+hs.eventtap.keyStroke({}, "-", 0)
+hs.eventtap.keyStroke({}, "1", 0)
+hs.eventtap.keyStroke({}, "0", 0)
+hs.eventtap.keyStroke({}, "return", 0)
+hs.eventtap.keyStroke({"cmd"}, "up", 0)
+
 -- Need To Assign Toggle Fade Out in FCPX
-hs.eventtap.keyStroke({"cmd", "alt"}, "f")
-hs.eventtap.keyStroke({"cmd"}, "down")
+hs.eventtap.keyStroke({"cmd", "alt"}, "f", 0)
+hs.eventtap.keyStroke({"cmd"}, "down", 0)
+
  -- Need To Assign Toggle Fade In in FCPX
-hs.eventtap.keyStroke({"cmd", "shift"}, "f")
-hs.eventtap.keyStroke({"ctrl"}, "s")
+hs.eventtap.keyStroke({"cmd", "shift"}, "f", 0)
+hs.eventtap.keyStroke({"ctrl"}, "s", 0)
 ```
 
 # Audio Cross Dissolve Centre
 ```lua
-hs.eventtap.keyStroke({"shift"}, "]")
-hs.eventtap.keyStroke({}, "-")
-hs.eventtap.keyStrokes("10")
-hs.eventtap.keyStroke({}, "return")
-hs.eventtap.keyStroke({"cmd"}, "up")
-hs.eventtap.keyStroke({"cmd"}, "down")
+hs.eventtap.keyStroke({"shift"}, "]", 0)
+hs.eventtap.keyStroke({}, "-", 0)
+hs.eventtap.keyStroke({}, "1", 0)
+hs.eventtap.keyStroke({}, "0", 0)
+hs.eventtap.keyStroke({}, "return", 0)
+hs.eventtap.keyStroke({"cmd"}, "up", 0)
+hs.eventtap.keyStroke({"cmd"}, "down", 0)
+
 -- Need To Assign Toggle Fade In in FCPX
-hs.eventtap.keyStroke({"cmd", "shift"}, "f")
-hs.eventtap.keyStroke({"ctrl"}, "s")
-hs.eventtap.keyStroke({}, "down")
-hs.eventtap.keyStroke({"shift"}, "[")
-hs.eventtap.keyStroke({"shift"}, "=")
-hs.eventtap.keyStrokes("10")
-hs.eventtap.keyStroke({}, "return")
-hs.eventtap.keyStroke({"cmd"}, "up")
-hs.eventtap.keyStroke({"cmd"}, "down")
+hs.eventtap.keyStroke({"cmd", "shift"}, "f", 0)
+hs.eventtap.keyStroke({"ctrl"}, "s", 0)
+hs.eventtap.keyStroke({}, "down", 0)
+hs.eventtap.keyStroke({"shift"}, "[", 0)
+hs.eventtap.keyStroke({"shift"}, "=", 0)
+hs.eventtap.keyStroke({}, "1", 0)
+hs.eventtap.keyStroke({}, "0", 0)
+hs.eventtap.keyStroke({}, "return", 0)
+hs.eventtap.keyStroke({"cmd"}, "up", 0)
+hs.eventtap.keyStroke({"cmd"}, "down", 0)
+
 -- Need To Assign Toggle Fade Out in FCPX
 hs.eventtap.keyStroke({"cmd", "alt"}, "f")
 hs.eventtap.keyStroke({"ctrl"}, "s")
@@ -79,15 +89,18 @@ hs.eventtap.keyStroke({"ctrl"}, "s")
 
 # Audio Cross Dissolve Forward (L-Cut)
 ```lua
-hs.eventtap.keyStroke({"shift"}, "[")
-hs.eventtap.keyStroke({"shift"}, "=")
-hs.eventtap.keyStrokes("10")
-hs.eventtap.keyStroke({}, "return")
-hs.eventtap.keyStroke({"cmd"}, "up")
+hs.eventtap.keyStroke({"shift"}, "[", 0)
+hs.eventtap.keyStroke({"shift"}, "=", 0)
+hs.eventtap.keyStroke({}, "1", 0)
+hs.eventtap.keyStroke({}, "0", 0)
+hs.eventtap.keyStroke({}, "return", 0)
+hs.eventtap.keyStroke({"cmd"}, "up", 0)
+
 -- Need To Assign Toggle Fade In in FCPX
-hs.eventtap.keyStroke({"cmd", "shift"}, "f")
-hs.eventtap.keyStroke({"cmd"}, "down")
+hs.eventtap.keyStroke({"cmd", "shift"}, "f", 0)
+hs.eventtap.keyStroke({"cmd"}, "down", 0)
+
  -- Need To Assign Toggle Fade Out in FCPX
-hs.eventtap.keyStroke({"cmd", "alt"}, "f")
-hs.eventtap.keyStroke({"ctrl"}, "s")
+hs.eventtap.keyStroke({"cmd", "alt"}, "f", 0)
+hs.eventtap.keyStroke({"ctrl"}, "s", 0)
 ```
