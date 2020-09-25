@@ -12,7 +12,7 @@
 
 * [Menubar](interface/menubar/README.md)
 * [Shortcuts](interface/shortcuts/README.md)
-* [Search Console](interface/console/README.md)
+* [Search Console](interface/searchconsole/README.md)
 * [HUD](interface/hud/README.md)
 * [Touch Bar](interface/touchbar/README.md)
 * [Stream Deck](interface/streamdeck/README.md)
