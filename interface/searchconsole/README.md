@@ -1,6 +1,8 @@
 # Search Console
 ---
 
+**NOTE:** The content on this page is slightly out-of-date, and whilst is generally still correct, the naming and layout in CommandPost has changed in various update.
+
 The Search Console is a name for the interface we use for selection actions in CommandPost. It's very similar to macOS Spotlight.
 
 In some ways, it's a blatant rip-off of Andrew Kramer at [Video Copilot's](http://www.videocopilot.net/) incredible free [FX Console](http://www.videocopilot.net/blog/2016/10/new-workflow-plug-in-fx-console-is-now-available/) plugin for After Effects.
