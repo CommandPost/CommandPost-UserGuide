@@ -9,15 +9,19 @@ By using our site and products, you consent to this privacy policy.
 
 ---
 
+## Important Notes:
+ * Starting in CommandPost 1.0.7-beta.11 (11 Aug 2020) we switch from [Crashlytics](https://fabric.io) to [Sentry](https://sentry.io).
+ * You can view our previous privacy policy [here](https://github.com/CommandPost/CommandPost-UserGuide/blob/54fe4b0358fb1fdbbce898eafa7637626cfa5931/privacy_credits/privacy_policy/README.md).
+
+---
+
 ## Facts:
-* CommandPost uses [Crashlytics](https://fabric.io) to collect information about crashes in the application and extensions (hereafter known as `Crash Data`).
-* Crashlytics is [owned by Google](https://fabric.io/blog/fabric-joins-google).
-* Audience Insights is a Crashlytics feature that benefits from an integration between [Answers](https://answers.io) and [Twitter](https://twitter.com). We use this feature to gather anonymous data about where CommandPost users are located in the world, so that we can make informed decisions about possible translations, and keyboard/language support.
-* You can read the Crashlytics Privacy Policy on [their website](http://try.crashlytics.com/terms/).
-* This feature is enabled by default.
-* Users can opt-out using the CommandPost preferences window - although we'd prefer you didn't!
-* Crash Data is uploaded securely to the Crashlytics servers.
-* No personally identifying data is collected or transmitted by CommandPost.
+* CommandPost uses [Sentry](https://sentry.io) to collect information about crashes in the application and extensions (hereafter known as `Crash Data`).
+* You can read the Sentry Privacy Policy on [their website](https://sentry.io/privacy/).
+* This feature is enabled by default, however users can opt-out using the CommandPost preferences window.
+* Crash Data is uploaded securely to the Sentry servers.
+* No personally identifying data is collected or transmitted by CommandPost, with the possible exception of path names. If you run CommandPost from a path that contains your name (e.g. `/Users/MyRealNameIsBobAnderson/Applications/CommandPost.app` then your name would be included in Crash Data.
+* No Sentry features have been enabled that collect or transmit any personal information about the user.
 * Some information about the hardware and operating system is collected and transmitted.
 * The location of the CommandPost app bundle in your filesystem, is collected (e.g. `/Applications/CommandPost.app`).
 * The location of the CommandPost extensions you use, is collected (e.g. `/Applications/CommandPost.app/Contents/Resources/extensions/ipc/internal-ipc.so`).
