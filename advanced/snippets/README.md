@@ -1,19 +1,38 @@
 # Snippets
 ---
 
-CommandPost allows you to trigger code snippets as an action.
+CommandPost allows you to create Lua code snippets, which appear as actions in CommandPost's Search Console.
 
-For example, to launch Final Cut Pro, you can write:
+This means you can trigger a snippet via a shortcut key or control surface button.
+
+For example, to launch Final Cut Pro, you can use this simple Lua code:
 
 `cp.apple.finalcutpro:launch()`
 
-CommandPost is compatible with Hammerspoon, so you can also use any of the examples on the Hammerspoon website:
+CommandPost is also compatible with Hammerspoon, so you can also use any of the examples on the Hammerspoon website:
 
 http://www.hammerspoon.org/go/
+
+You can learn more about Lua here:
+
+https://dev.commandpost.io/lua/lua-overview
 
 ---
 
 # Examples
+
+## Forcefully restart an application by its bundle identifier
+
+```lua
+local bundleID = "com.logitech.manager.daemon"
+local apps = hs.application.applicationsForBundleID(bundleID)
+if apps and apps[1] then
+    apps[1]:kill9()
+end
+hs.application.launchOrFocusByBundleID(bundleID)
+```
+
+---
 
 ## Select all even clips in a timeline
 
@@ -30,6 +49,8 @@ end
 cp.apple.finalcutpro:timeline():contents():selectClips(evenClips)
 ```
 
+---
+
 ## Go back 500 frames and play
 
 ```lua
@@ -41,6 +62,8 @@ hs.eventtap.keyStroke({}, "0", 0)
 hs.eventtap.keyStroke({}, "return")
 cp.apple.finalcutpro:doShortcut("JogForward"):Now()
 ```
+
+---
 
 ## Audio Cross Dissolve Backward (J-Cut)
 ```lua
@@ -60,7 +83,9 @@ hs.eventtap.keyStroke({"cmd", "shift"}, "f", 0)
 hs.eventtap.keyStroke({"ctrl"}, "s", 0)
 ```
 
-# Audio Cross Dissolve Centre
+---
+
+## Audio Cross Dissolve Centre
 ```lua
 hs.eventtap.keyStroke({"shift"}, "]", 0)
 hs.eventtap.keyStroke({}, "-", 0)
@@ -87,7 +112,9 @@ hs.eventtap.keyStroke({"cmd", "alt"}, "f")
 hs.eventtap.keyStroke({"ctrl"}, "s")
 ```
 
-# Audio Cross Dissolve Forward (L-Cut)
+---
+
+## Audio Cross Dissolve Forward (L-Cut)
 ```lua
 hs.eventtap.keyStroke({"shift"}, "[", 0)
 hs.eventtap.keyStroke({"shift"}, "=", 0)
