@@ -15,6 +15,8 @@ We want CommandPost to be as safe and reliable as possible, and we want to avoid
 
 The easiest way to enable Moveable Markers is via Terminal.
 
+This works on Final Cut Pro 10.5.2 and below on both Intel and Apple Silicon.
+
 The below assumes you have Final Cut Pro installed within the `/Applications` folder.
 
 This will enable them:
@@ -24,3 +26,27 @@ This will enable them:
 This will disable them:
 
 `sudo /usr/libexec/PlistBuddy -c "Set :TLKMarkerHandler:Configuration:'Allow Moving Markers' false" '/Applications/Final Cut Pro.app/Contents/Frameworks/TLKit.framework/Versions/A/Resources/EventDescriptions.plist'`
+
+---
+
+## Why did you remove "Show Timeline in Viewers"?
+
+Unfortunately Apple removed the hidden "Show Timeline in Viewers" preference in Final Cut Pro 10.4.9.
+
+As CommandPost is just enabling this hidden preference, unfortunately there's nothing we can do to bring it back.
+
+However, you can still use this feature if you're using Final Cut Pro 10.4.4 to 10.4.8.
+
+If you found this feature useful, please [send feedback to Apple](https://www.apple.com/feedback/finalcutpro.html) explaining how you used it and why you found it useful.
+
+---
+
+## Why did you remove the "Hidden FCPXML Import/Export Option"?
+
+Unfortunately Apple removed the "Hidden FCPXML Import/Export Option" preferences in Final Cut Pro 10.4.9.
+
+As CommandPost is just enabling these hidden preferences, unfortunately there's nothing we can do to bring them back.
+
+However, you can still use these features if you're using Final Cut Pro 10.4.4 to 10.4.8.
+
+If you found this feature useful, please [send feedback to Apple](https://www.apple.com/feedback/finalcutpro.html) explaining how you used it and why you found it useful.
