@@ -36,6 +36,7 @@
 
 * [Snippets](advanced/snippets/README.md)
 * [Snippets for Icons](advanced/snippets_for_icons/README.md)
+* [Snippets for LED Colors](advanced/snippets_for_led_colors/README.md)
 * [Controlling CommandPost](advanced/controlling_commandpost/README.md)
 
 ## Privacy & Credits
