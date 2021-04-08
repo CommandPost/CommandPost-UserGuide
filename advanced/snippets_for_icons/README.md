@@ -5,8 +5,6 @@ The Loupedeck CT and Loupedeck Live Preferences panels now have the ability to u
 
 This gives you incredible freedom, to programatically make the icons appear however you want.
 
-Any icons generated via Snippets are reloaded every second, and shortly after turning a knob or pressing a button.
-
 CommandPost is also compatible with Hammerspoon, so you can also use helpful extensions such as [`hs.canvas`](http://www.hammerspoon.org/docs/hs.canvas.html).
 
 You can learn more about Lua on the [CommandPost Developers site](https://dev.commandpost.io/lua/lua-overview).
