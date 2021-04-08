@@ -11,8 +11,23 @@ You can learn more about Lua on the [CommandPost Developers site](https://dev.co
 
 # Examples
 
-## Return the color red
+## Set LED to Red
 
 ```lua
 return hs.drawing.color.asRGB({hex="#FF0000"})
+```
+
+---
+
+## Set LED to random color
+
+```lua
+local a = hs.math.randomFromRange(0, 9)
+local b = hs.math.randomFromRange(0, 9)
+local c = hs.math.randomFromRange(0, 9)
+local d = hs.math.randomFromRange(0, 9)
+local e = hs.math.randomFromRange(0, 9)
+local f = hs.math.randomFromRange(0, 9)
+
+return hs.drawing.color.asRGB({hex="#"..a..b..c..d..e..f})
 ```
