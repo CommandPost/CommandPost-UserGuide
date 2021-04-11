@@ -19,6 +19,11 @@
 * [Tangent](interface/tangent/README.md)
 * [Error Log](interface/errorlog/README.md)
 
+## Toolbox
+
+* [FCPXML Titles](toolbox/fcpxml_titles/README.md)
+* [Shot Data](toolbox/shot_data/README.md)
+
 ## Final Cut Pro
 
 * [Scrolling Timeline](finalcutpro/scrolling_timeline/README.md)
