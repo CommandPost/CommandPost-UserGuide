@@ -17,6 +17,16 @@ You can learn more about Lua here:
 
 https://dev.commandpost.io/lua/lua-overview
 
+Here's a link to Hammerspoon's API reference:
+
+http://www.hammerspoon.org/docs/index.html
+
+Here's some direct links to some useful Hammerspoon functions:
+
+- [`hs.timer.usleep(microsecs)`](http://www.hammerspoon.org/docs/hs.timer.html#usleep) - Add a delay
+- [`hs.eventtap.keyStroke(modifiers, character[, delay, application])`](http://www.hammerspoon.org/docs/hs.eventtap.html#keyStroke) - Trigger a virtual key stroke
+- [`hs.application:selectMenuItem(menuitem[, isRegex])`](http://www.hammerspoon.org/docs/hs.application.html#selectMenuItem) - Trigger an application menu item
+
 ---
 
 # Examples
