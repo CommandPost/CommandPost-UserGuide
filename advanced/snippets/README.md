@@ -49,7 +49,7 @@ hs.application.launchOrFocusByBundleID(bundleID)
 ```lua
 cp.apple.finalcutpro:launch()
 local clips = cp.apple.finalcutpro:timeline():contents():clipsUI()
-table.sort(clips, function(a, b) return a:position().x < b:position().x end)
+table.sort(clips, function(a, b) return a.AXPosition.x < b.AXPosition.x end)
 local evenClips = {}
 for i, clip in ipairs(clips) do
     if (i % 2 == 0) then
