@@ -14,9 +14,9 @@ When you first install CommandPost, there are a few built-in shortcuts predefine
 
 There are also built-in shortcuts predefined for Final Cut Pro.
 
-You can customise the shortcuts keys in the **Shortcuts** Preferences panel - which can be accessed by pressing the **Preferences...** option near the bottom of the CommandPost menubar:
+You can customise the shortcuts keys in the **Keyboard** Preferences panel - which can be accessed by pressing the **Control Surfaces** dropdown menu near the bottom of the CommandPost menubar:
 
-![Menubar Preferences Item](../../images/menubar-prefs-item.png)
+![Control Surface Preferences Item](../../images/menubar-control-item.png)
 
 This is what the Shortcut Preferences panel looks like:
 
