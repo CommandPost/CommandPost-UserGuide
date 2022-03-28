@@ -13,7 +13,7 @@ The menubar is split up into multiple sections, and offers a huge variety of dif
 
 By default, the menubar is pretty jam-packed with heaps of options and functionality. If you find it too daunting, you can adjust what sections are shown in the menubar via the Menubar Preferences panel.
 
-At the bottom of the menubar is a **SETTINGS** section, and within that, a **Preferences...** option. Once you click that you'll be presented with this:
+At the bottom of the menubar is a **SETTINGS** section, and within that, a **Preferences** dropdown. Once you click the **Menu Bar** option within that, you'll be presented with this:
 
 ![Menubar](../../images/menubar-prefs.png)
 
