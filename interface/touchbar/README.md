@@ -5,7 +5,7 @@ If you're running **macOS Sierra 10.12.1** or above, you can make use of Command
 
 There's both a **Virtual Touch Bar**, which displays a Touch Bar on your computer screen, and the ability to add custom items to both the virtual and physical Touch Bar.
 
-You can enable both options by going to the **Touch Bar** preferences panel in CommandPost Preferences, via clicking the **Preferences...** option towards the bottom of the CommandPost menubar.
+You can enable both options by going to the **Touch Bar** preferences panel, via clicking the **Control Surfaces**, then **Touch Bar** option towards the bottom of the CommandPost menubar.
 
 It looks like this:
 
