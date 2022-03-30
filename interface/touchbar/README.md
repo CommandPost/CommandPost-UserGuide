@@ -31,9 +31,7 @@ You can toggle the Virtual Touch Bar via shortcut keys (the default shortcut key
 
 The custom Touch Bar is incredibly powerful and versatile - it allows you to assign ANY action in CommandPost to a custom Touch Bar button.
 
-Much like [keyboard shortcuts](interface/shortcuts/README.md), there's both a Global Touch Bar, and application specific Touch Bars - currently limited to Final Cut Pro.
-
-The first thing you need to do to take use of this functionality is make sure that **App Controls with Control Strip** is selected within the **Touch Bar shows** macOS System Preferences Keyboard panel, as shown here:
+The first thing you need to do to take use of this functionality is make sure that **App Controls** is selected and **Control Strip** is checked within the **Touch Bar shows** macOS System Preferences Keyboard panel, as shown here:
 
 ![Touch Bar Preferences](../../images/touchbar-sysprefs.png)
 
@@ -44,6 +42,10 @@ What this does is enable the CommandPost icon to appear in the Control Strip, al
 Once this is enabled, and **Enable Customised Touch Bar** is ticked, you can then assign Icons, Actions and Labels to buttons within the Preferences Panel, for example:
 
 ![Touch Bar Items](../../images/touchbar-items.png)
+
+Much like [keyboard shortcuts](interface/shortcuts/README.md), there's both a Global Touch Bar, and application specific Touch Bars - currently limited to Final Cut Pro. You can Customize both Touch Bar sepearately by selecting the corresponding option on the Application dropdown menu. There is also nine Banks of setting available for both Touch Bar, so you can quickly switch between configuration.
+
+You can switch Touch Bar Banks via shortcut keys, Search Console, or assign the toggle to a HUD or any control surfaces.
 
 Pressing the **Select** button for each column, will pop up a [Console](interface/console/README.md) allowing you to easily search for "actions". If you right click on the Console, you can also define what **Sections** you want to view, for example:
 
@@ -61,6 +63,6 @@ This widget allows you to control Final Cut Pro's Color Board using your fingers
 
 If you don't have a physical Touch Bar, you can also use [Duet](https://www.duetdisplay.com) to view the Color Board Widget on your iPad.
 
-At the bottom of the Touch Bar Preferences screen there's an option to **Reset All Touch Bar Items** which will set all the Touch Bar Items to None.
+At the bottom of the Touch Bar Preferences screen there's an option to **Reset All Touch Bar Items** which will set all the Touch Bar Items to None. There's also a **Reset Application** option and a **Reset Bank** option that reset only the currently selected Application or Bank repsectively.
 
-You can toggle the Custom Touch Bar via shortcut keys, or assign the toggle to a HUD, Touch Bar or Stream Deck button.
+You can toggle the Custom Touch Bar via shortcut keys, Search Console, or assign the toggle to a HUD or any control surfaces.
