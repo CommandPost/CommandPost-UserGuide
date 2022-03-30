@@ -5,7 +5,7 @@ You can download the latest release of CommandPost as an DMG package [here](http
 
 Once downloaded, simply open the package by double-clicking it.
 
-You might be presented with a warning the below - click **Open** to continue installation.
+You might be presented with a warning link below - click **Open** to continue installation.
 
 ![DMG Warning](../../images/dmg-warning.png)
 
@@ -17,7 +17,7 @@ Drag the CommandPost icon to the Folder icon. This will put CommandPost in your 
 
 ![Application Folder](../../images/application-folder.png)
 
-Navigate to your Application folder by double clicking the folder icon, and double click the CommandPost icon. You might be presented with another warning the below - click **Open** to continue installation.
+Navigate to your Application folder by double clicking the folder icon, and double click the CommandPost icon. You might be presented with another warning like below - click **Open** to continue installation.
 
 ![App Warning](../../images/app-warning.png)
 
@@ -31,7 +31,7 @@ You'll then be presented with the Accessibility Permissions screen:
 
 ![Accessibility Panel](../../images/welcome-2.png)
 
-When you click **ENABLE ACCESSIBILITY**, macOS will present you with this:
+When you click **ALLOW ACCESSIBILITY**, macOS will present you with this:
 
 ![Accessibility Permissions](../../images/welcome-3.png)
 
@@ -45,7 +45,7 @@ Use touch ID or enter your computers password to unlock:
 
 ![Accessibility Permissions](../../images/welcome-5.png)
 
-Once the preferences are unlocked, you can tick CommandPost in the list. As soon as you click it, System Preferences will close, and you'll go back to the CommandPost setup, andpresented with the Screen Recording Permissions screen:
+Once the preferences are unlocked, you can tick CommandPost in the list. As soon as you click it, System Preferences will close, and you'll go back to the CommandPost setup, presented with the Screen Recording Permissions screen:
 
 ![Screen Recording Permissions](../../images/welcome-6.png)
 
@@ -59,7 +59,7 @@ Use touch ID or enter your computers password to unlock:
 
 ![Screen Recording Permissions](../../images/welcome-8.png)
 
-Once the preferences are unlocked, you can tick CommandPost in the list. As soon as you click it, MacOS will ask you to quit and reopen CommandPost. \
+Once the preferences are unlocked, you can tick CommandPost in the list. As soon as you click it, MacOS will ask you to quit and reopen CommandPost.
 
 ![Screen Recording Permissions](../../images/welcome-9.png)
 
