@@ -19,6 +19,14 @@ This is basically just an empty panel, making the HUD footprint very small, yet 
 
 ---
 
+## Batch Rename
+
+![HUD](../../images/hud-batch-rename.png)
+
+This panel lets you batch process names of clips and projects in Final Cut's browser. Apart from search and replace, you can add prefix, suffix, and a sequential number. Disabling **Keep Original Value** will remove the original name, and **Enable Lua Code Processing** will let you define your own proccessing logic written in Lua, for example, adding today's date.
+
+---
+
 ## Info
 
 ![HUD](../../images/hud-info.png)

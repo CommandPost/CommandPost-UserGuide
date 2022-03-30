@@ -5,19 +5,23 @@ You can download the latest release of CommandPost as an DMG package [here](http
 
 Once downloaded, simply open the package by double-clicking it.
 
-You will be presented with a MIT license agreement like the below - click **Agree** if you accept.
+You might be presented with a warning the below - click **Open** to continue installation.
 
-![License Agreement](../../images/license-agreement.png)
+![DMG Warning](../../images/dmg-warning.png)
 
 The DMG package will open, looking like this:
 
 ![Package Contents](../../images/commandpost-dmg.png)
 
-Double click the CommandPost icon. It will now ask you if you wish to move CommandPost to your Applications folder:
+Drag the CommandPost icon to the Folder icon. This will put CommandPost in your Application folder. 
 
-![Move CommandPost](../../images/move-to-applications.png)
+![Application Folder](../../images/application-folder.png)
 
-Click **Move To Applications**. CommandPost will now launch the Welcome Screen:
+Navigate to your Application folder by double clicking the folder icon, and double click the CommandPost icon. You might be presented with another warning the below - click **Open** to continue installation.
+
+![App Warning](../../images/app-warning.png)
+
+CommandPost will now launch the Welcome Screen:
 
 ![Welcome Screen](../../images/welcome-1.png)
 
@@ -37,21 +41,43 @@ When the **Privacy** Tab of the **Security & Privacy** System Preferences opens,
 
 ![Accessibility Permissions](../../images/welcome-4.png)
 
-Enter your computers password and press **Unlock**:
+Use touch ID or enter your computers password to unlock:
 
 ![Accessibility Permissions](../../images/welcome-5.png)
 
-Once the preferences are unlocked, you can tick CommandPost in the list. As soon as you click it, System Preferences will close, and you'll go back to the CommandPost setup:
+Once the preferences are unlocked, you can tick CommandPost in the list. As soon as you click it, System Preferences will close, and you'll go back to the CommandPost setup, andpresented with the Screen Recording Permissions screen:
 
-![Scan Final Cut Pro](../../images/welcome-6.png)
+![Screen Recording Permissions](../../images/welcome-6.png)
+
+When you click **ALLOW SCREEN RECORDING**, the **Privacy** Tab of the **Security & Privacy** System Preferences opens.
+
+You'll see CommandPost in the "Allow the apps below to record the content of your screen, even while using other apps." list. Again, the panel is locked, so you need to click the paddock icon in the bottom left corner of the screen to make changes.
+
+![Screen Recording Permissions](../../images/welcome-7.png)
+
+Use touch ID or enter your computers password to unlock:
+
+![Screen Recording Permissions](../../images/welcome-8.png)
+
+Once the preferences are unlocked, you can tick CommandPost in the list. As soon as you click it, MacOS will ask you to quit and reopen CommandPost. \
+
+![Screen Recording Permissions](../../images/welcome-9.png)
+
+Choose **Quit & Reopen**, then you may manually return to the CommandPost app, and it will present you with the CommandPost setup:
+
+![Welcome Screen](../../images/welcome-1.png)
+
+Since you have already grant the permission CommandPost needs, clicking **CONTINUE** will bring you straight to the Scan Final Cut Pro screen.
+
+![Scan Final Cut Pro](../../images/welcome-10.png)
 
 When you click **START SCAN** CommandPost will begin scanning your system for Final Cut Pro Plugins & Motion Templates. This process can take several minutes to complete.
 
-![Scanning](../../images/welcome-7.png)
+![Scanning](../../images/welcome-11.png)
 
 Once the scanning is complete you'll be presented with:
 
-![Scanning](../../images/welcome-8.png)
+![Scanning](../../images/welcome-12.png)
 
 Click **CLOSE**, and you're ready to use CommandPost!
 

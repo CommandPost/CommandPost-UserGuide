@@ -1,8 +1,6 @@
 # Search Console
 ---
 
-**NOTE:** The content on this page is slightly out-of-date, and whilst is generally still correct, the naming and layout in CommandPost has changed in various update.
-
 The Search Console is a name for the interface we use for selection actions in CommandPost. It's very similar to macOS Spotlight.
 
 In some ways, it's a blatant rip-off of Andrew Kramer at [Video Copilot's](http://www.videocopilot.net/) incredible free [FX Console](http://www.videocopilot.net/blog/2016/10/new-workflow-plug-in-fx-console-is-now-available/) plugin for After Effects.
@@ -25,9 +23,9 @@ This allows you to:
 - Remember the last text query entered.
 - Search the sub-text field (i.e. the smaller text in the Search Console).
 - Show Hidden items (useful when you want to restore something you've already hidden).
-- Toggle which "Sections" you want to show.
+- Toggle which "Action Groups" you want to show.
 
-All of the above settings are remember for this Search Console.
+All of the above settings are remembered for this Search Console.
 
 However, this isn't the only instance of the Search Console - we use it right throughout CommandPost.
 
