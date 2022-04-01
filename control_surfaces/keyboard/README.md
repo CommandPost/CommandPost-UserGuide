@@ -1,4 +1,4 @@
-# Shortcuts
+# Keyboard
 ---
 
 The most common way of triggering actions in CommandPost is via shortcut keys on your keyboard.
