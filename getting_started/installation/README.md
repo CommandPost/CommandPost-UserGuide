@@ -63,7 +63,7 @@ Once the preferences are unlocked, you can tick CommandPost in the list. As soon
 
 ![Screen Recording Permissions](../../images/welcome-9.png)
 
-Choose **Quit & Reopen**, then you may manually return to the CommandPost app, and it will present you with the CommandPost setup:
+Choose **Quit & Reopen**, then after a short delay, CommandPost will close the System Preferences panel and present you with the CommandPost setup:
 
 ![Welcome Screen](../../images/welcome-1.png)
 
