@@ -17,7 +17,6 @@
 * [Sending Apple Feedback](interface/sending_apple_feedback/README.md)
 * [Prevent Mac from Sleeping](interface/prevent_mac_from_sleeping/README.md)
 
-{% comment %} 
 ## Preferences
 * [General](preferences/general/README.md)
 * [Finder](preferences/finder/README.md)
@@ -27,7 +26,6 @@
 * [Scripting](preferences/scripting/README.md)
 * [Plugins](preferences/plugins/README.md)
 * [Settings](preferences/settings/README.md)
-{% endcomment %}
 
 ## Control Surfaces
 * [Keyboard](control_surfaces/keyboard/README.md)
@@ -35,7 +33,6 @@
 * [Stream Deck](control_surfaces/streamdeck/README.md)
 * [Resolve](control_surfaces/resolve/README.md)
 * [Tangent](control_surfaces/tangent/README.md)
-{% comment %} 
 * [Monogram](control_surfaces/monogram/README.md)
 * [TourBox](control_surfaces/tourbox/README.md)
 * [Razer](control_surfaces/razer/README.md)
@@ -43,7 +40,6 @@
 * [Loupdeck](control_surfaces/loupdeck/README.md)
 * [AudioSwift](control_surfaces/audioswift/README.md)
 * [Gamepad](control_surfaces/gamepad/README.md)
-{% endcomment %}
 
 ## Toolbox
 
@@ -61,11 +57,9 @@
 * [Viewer Overlay](final_cut_pro/overlay/README.md)
 * [Scrolling Timeline](final_cut_pro/scrolling_timeline/README.md)
 * [Batch Export Active Timeline](final_cut_pro/batch_export_active_timeline/README.md)
-{% comment %}
 * [Save Timeline Index to CSV](final_cut_pro/save_timeline_index_to_csv/README.md)
-* [Save Broweser Contnets to CSV](final_cut_pro/save_browser_contents_to_csv/README.md)
+* [Save Browser Contents to CSV](final_cut_pro/save_browser_contents_to_csv/README.md)
 * [Local Pasteboard History](final_cut_pro/local_pasteboard_history/README.md)
-{% endcomment %}
 * [Shared Pasteboard History](final_cut_pro/shared_pasteboard_history/README.md)
 * [3rd Party Tools](final_cut_pro/3rd_party_tools/README.md)
 
