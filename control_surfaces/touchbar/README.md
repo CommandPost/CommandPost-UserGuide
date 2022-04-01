@@ -43,7 +43,7 @@ Once this is enabled, and **Enable Customised Touch Bar** is ticked, you can the
 
 ![Touch Bar Items](../../images/touchbar-items.png)
 
-Much like [keyboard shortcuts](interface/shortcuts/README.md), there's both a Global Touch Bar, and application specific Touch Bars - currently limited to Final Cut Pro. You can Customize both Touch Bar sepearately by selecting the corresponding option on the Application dropdown menu. There is also nine Banks of setting available for both Touch Bar, so you can quickly switch between configuration.
+Much like [keyboard shortcuts](interface/shortcuts/README.md), there's both a Global Touch Bar, and application specific Touch Bars - currently limited to Final Cut Pro. You can Customize both Touch Bar separately by selecting the corresponding option on the Application dropdown menu. There is also nine Banks of setting available for both Touch Bar, so you can quickly switch between configuration.
 
 You can switch Touch Bar Banks via shortcut keys, Search Console, or assign the toggle to a HUD or any control surfaces.
 
