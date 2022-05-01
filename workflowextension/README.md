@@ -1,6 +1,3 @@
-# Workflow Extension
----
-
 The CommandPost Workflow Extension allows CommandPost to control the Final Cut Pro playhead via the Workflow Extensions API.
 
 CommandPost will automatically attempt to launch the Workflow Extension if you trigger an action that uses it.
