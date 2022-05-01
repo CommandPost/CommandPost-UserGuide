@@ -37,6 +37,10 @@
 
 * [Introduction](plugins/introduction/README.md)
 
+## Workflow Extension
+
+* [Explanation](workflowextension/README.md)
+
 ## Advanced
 
 * [Snippets](advanced/snippets/README.md)
