@@ -1,11 +1,9 @@
 # Touch Bar
 ---
 
-If you're running **macOS Sierra 10.12.1** or above, you can make use of CommandPost's awesome Touch Bar features.
-
 There's both a **Virtual Touch Bar**, which displays a Touch Bar on your computer screen, and the ability to add custom items to both the virtual and physical Touch Bar.
 
-You can enable both options by going to the **Touch Bar** preferences panel in CommandPost Preferences, via clicking the **Preferences...** option towards the bottom of the CommandPost menubar.
+You can enable both options by going to the **Touch Bar** preferences panel, via clicking the **Control Surfaces**, then **Touch Bar** option towards the bottom of the CommandPost menubar.
 
 It looks like this:
 
@@ -43,7 +41,7 @@ Once this is enabled, and **Enable Customised Touch Bar** is ticked, you can the
 
 ![Touch Bar Items](../../images/touchbar-items.png)
 
-Much like [keyboard shortcuts](interface/shortcuts/README.md), there's both a Global Touch Bar, and application specific Touch Bars - currently limited to Final Cut Pro. You can Customize both Touch Bar sepearately by selecting the corresponding option on the Application dropdown menu. There is also nine Banks of setting available for both Touch Bar, so you can quickly switch between configuration.
+Much like [keyboard shortcuts](interface/shortcuts/README.md), there's both a Global Touch Bar, and application specific Touch Bars - currently limited to Final Cut Pro. You can Customize both Touch Bar separately by selecting the corresponding option on the Application dropdown menu. There is also nine Banks of setting available for both Touch Bar, so you can quickly switch between configuration.
 
 You can switch Touch Bar Banks via shortcut keys, Search Console, or assign the toggle to a HUD or any control surfaces.
 
