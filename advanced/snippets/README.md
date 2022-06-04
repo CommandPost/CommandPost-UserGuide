@@ -3,7 +3,7 @@
 
 CommandPost allows you to create Lua code snippets, which appear as actions in CommandPost's Search Console.
 
-This means you can trigger a snippet via a shortcut key or control surface button.
+This means you can trigger a Snippet via a shortcut key or control surface button.
 
 For example, to launch Final Cut Pro, you can use this simple Lua code:
 
@@ -11,15 +11,15 @@ For example, to launch Final Cut Pro, you can use this simple Lua code:
 
 CommandPost is also compatible with Hammerspoon, so you can also use any of the examples on the Hammerspoon website:
 
-http://www.hammerspoon.org/go/
+[http://www.hammerspoon.org/go/](http://www.hammerspoon.org/go/)
 
 You can learn more about Lua here:
 
-https://dev.commandpost.io/lua/lua-overview
+[https://dev.commandpost.io/lua/lua-overview](https://dev.commandpost.io/lua/lua-overview)
 
 Here's a link to Hammerspoon's API reference:
 
-http://www.hammerspoon.org/docs/index.html
+[http://www.hammerspoon.org/docs/index.html](http://www.hammerspoon.org/docs/index.html)
 
 Here's some direct links to some useful Hammerspoon functions:
 
@@ -27,9 +27,44 @@ Here's some direct links to some useful Hammerspoon functions:
 - [`hs.eventtap.keyStroke(modifiers, character[, delay, application])`](http://www.hammerspoon.org/docs/hs.eventtap.html#keyStroke) - Trigger a virtual key stroke
 - [`hs.application:selectMenuItem(menuitem[, isRegex])`](http://www.hammerspoon.org/docs/hs.application.html#selectMenuItem) - Trigger an application menu item
 
+Here's some direct links to some useful CommandPost functions:
+
+- [`cp.tools`](https://dev.commandpost.io/commandpost-api/cp.tools)
+
 ---
 
 # Examples
+
+## Press "CMD+C"
+
+```lua
+hs.eventtap.keyStroke({"cmd"}, "c")
+```
+
+---
+
+## Type "test"
+
+```lua
+hs.eventtap.keyStrokes("test")
+```
+
+---
+
+## Trigger Shortcuts with Delay's in-between
+
+```lua
+-- Type "t"
+hs.eventtap.keyStroke({}, "t")
+
+-- Wait 1 second
+cp.just.wait(1)
+
+-- Type "e"
+hs.eventtap.keyStroke({}, "e")
+```
+
+---
 
 ## Forcefully restart an application by its bundle identifier
 
