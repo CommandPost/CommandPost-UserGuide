@@ -123,7 +123,7 @@ One feature that sets Notion apart from other database (i.e Airtable) is every e
     
     
     
-    🪲 There is an apparent bug in Final Cut Pro where Custom **Generators** with complex rigging and layers ****does not preview the background colour in the timeline. Hence, we have to use default Custom Solid Generator for visual indication within the timeline.
+    🪲 There is an apparent bug in Final Cut Pro where Custom **Generators** with complex rigging and layers does not preview the background colour in the timeline. Hence, we have to use default Custom Solid Generator for visual indication within the timeline.
     
     
     
@@ -233,12 +233,9 @@ One feature that sets Notion apart from other database (i.e Airtable) is every e
     
 7. Watch as the magic happens!
     
-    [S2.4.mp4](assets/S2.4.mp4)
+https://user-images.githubusercontent.com/118706051/203711186-81ee565b-9545-437f-8e52-fc6f45cc2c54.mp4   
     
-    
-    💡 The upload speed is dependent on your internet connection and Notion’s servers.
-    
-    
+    💡 The upload speed is dependent on your internet connection and Notion’s servers. 
     
 8. If you have 19 shots within your Project’s Timeline, you should technically have 19 records automatically created within your Notion’s database. 
 9. This is the very essence of **Shot Data** Workflow. Repeat the process for the rest of your Scenes in Final Cut Pro. Your Notion’s database will grow overtime.
@@ -252,11 +249,9 @@ One feature that sets Notion apart from other database (i.e Airtable) is every e
 1. [Download](https://www.notion.so/mobile) the Mobile version of Notion.
 2. Add [widget](https://www.notion.so/help/mobile-widgets) on your home screen.
     
-    [S3.1.mp4](assets/S3.1.mp4)
-    
+https://user-images.githubusercontent.com/118706051/203711309-081c4e93-2837-4a3a-93be-e48c01d3dd07.mp4
     
     💡 You could [mount](https://www.manfrotto.com/global/magic-arm-with-bracket-143a/) your iPhone or iPad to your Camera Rig and to your [Director's Monitor Cage](https://woodencamera.com/products/directors-monitor-cage-v3).
-    
     
 </details>
 
