@@ -213,7 +213,7 @@ One feature that sets Notion apart from other database (i.e Airtable) is every e
 
 1. [Duplicate](https://www.notion.so/help/duplicate-public-pages) my [Shot Data Template](https://soothsayer.notion.site/1e6a317008e546159ca7015011cdb173?v=a1b16c2a1fa447138268a8f1fe515bd7) into your Notion Workspace. You can rename the template to your desire.
 2. Select **Shot Data** from the **CommandPost**’s Toolbox Menu.
-3. Paste your [Notion v2 Token](https://www.notion.so/Find-Your-Notion-Token-5f57951434c1414d84ac72f88226eede) in the Notion Token field. Make sure both **Automatically Upload Converted FCPXMLs** and **Merge with Existing Database** are Checked.
+3. Paste your [Notion v2 Token](https://vzhd1701.notion.site/Find-Your-Notion-Token-5f57951434c1414d84ac72f88226eede) in the Notion Token field. Make sure both **Automatically Upload Converted FCPXMLs** and **Merge with Existing Database** are Checked.
     
     ![S2.1.png](assets/S2.1.png)
     
@@ -233,7 +233,7 @@ One feature that sets Notion apart from other database (i.e Airtable) is every e
     
 7. Watch as the magic happens!
     
-https://user-images.githubusercontent.com/118706051/203711186-81ee565b-9545-437f-8e52-fc6f45cc2c54.mp4   
+![S2.4.gif](assets/S2.4.gif)  
     
    💡 The upload speed is dependent on your internet connection and Notion’s servers. 
     
@@ -249,7 +249,7 @@ https://user-images.githubusercontent.com/118706051/203711186-81ee565b-9545-437f
 1. [Download](https://www.notion.so/mobile) the Mobile version of Notion.
 2. Add [widget](https://www.notion.so/help/mobile-widgets) on your home screen.
     
-https://user-images.githubusercontent.com/118706051/203711309-081c4e93-2837-4a3a-93be-e48c01d3dd07.mp4
+![S3.1.gif](assets/S3.1.gif)
     
    💡 You could [mount](https://www.manfrotto.com/global/magic-arm-with-bracket-143a/) your iPhone or iPad to your Camera Rig and to your [Director's Monitor Cage](https://woodencamera.com/products/directors-monitor-cage-v3).
     
@@ -373,14 +373,14 @@ https://user-images.githubusercontent.com/118706051/203711309-081c4e93-2837-4a3a
 
 Interestingly, I initially experimented Shot Data with Airtable. Airtable offers a superior database system compared to Notion. However, Notion offers greater affordability, superior embeds, note-taking features within each page, comparatively.
 
-If you are an Airtable user and would like to use the Shot Data files in your Airtable’s database, get in touch with me.
+If you are an Airtable user and would like to use the Shot Data files in your Airtable’s database, [get in touch with me](https://twitter.com/IAmVigneswaran).
 </details>
 
 ## Afterthoughts
 
 This workflow would be particularly advantageous if you are the Writer, Director and Editor; or at least collaborating with an Editor in the early development phase. You could pursue through your vision from storyboard, pre-cut to actual principal photography and back to editorial in Final Cut Pro. Be it short-form or feature form, this workflow should be applicable across.
 
-*Last Edited : 24th November 2022*
+*Last Edited : 28th November 2022*
 
 ---
 
