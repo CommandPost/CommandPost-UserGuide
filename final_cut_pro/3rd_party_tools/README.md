@@ -32,6 +32,15 @@ Media teams work and collaborate more effectively with ShareBrowser.
 
 ## Paid
 
+[**X2Pro**](https://x2pro.net)
+Create AAFs to Finish your Final Cut Pro X projects in Avid Pro Tools.
+
+[**Intelligent Assistance Software**](https://intelligentassistance.com)
+A wide range of utility apps for Final Cut Pro as well as Premiere Pro including Sync-N-Link, SendToX, XToCC. and Producer's Best Friend.
+
+[**Ulti.Media**](https://ulti.media)
+A collections of tools for Final Cut Pro and After Effects including Batch Buddy AE, BeatMark Pro, FCPX AutoDuck, and FCP Cut Finder.
+
 [**Library Inspector for Final Cut Pro**](https://tommikivimaki.com/apps/libi/index.html)
 Libi let's you inspect Final Cut Pro libraries. You can quickly look inside a library to get the information when it was created, last modified and how much disk space it consumes.
 
@@ -92,9 +101,6 @@ The App Store for Final Cut Pro.
 
 [**Red Giant**](https://www.redgiant.com/)
 Red Giant has a whole host of plugins compatible with FCPX.
-
-[**X2Pro**](https://x2pro.net)
-Finish your Final Cut Pro X projects in Avid Pro Tools.
 
 [**Youlean Loudness Meter**](https://youlean.co/youlean-loudness-meter)
 Youlean Loudness Meter helps you find the true perceived loudness of your audio and prepares it for TV or streaming services release.
