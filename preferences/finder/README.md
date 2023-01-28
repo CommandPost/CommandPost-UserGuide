@@ -4,7 +4,7 @@
 The Finder section in CommandPost settings contains options to change the default behavior of the Finder regarding external drives, chimes, and pasteboard. With these settings, users can customize the way external drives behave within the Finder, set a chime sound when external power is connected, and manage the pasteboard history.
 
 ### Drive Management
-- **Unmount external drives when switching to battery power**: This checkbox allows you to enable or disable the automatic unmounting of external drives when your computer switches to battery power. When enabled, CommandPost will automatically unmount any external drives that are connected to your computer when your battery power drops below a certain threshold.
+- **Unmount external drives when switching to battery power**: This checkbox allows you to enable or disable the automatic unmounting of external drives when your computer switches to battery power. When enabled, CommandPost will automatically unmount any external drives that are connected to your computer when your computer switches to battery power.
 - **Mount external drives when switching to AC power**: This checkbox allows you to enable or disable the automatic mounting of external drives when your computer switches to AC power. When enabled, CommandPost will automatically mount any external drives that were previously unmounted when your computer switches back to AC power.
 
 ### Advanced
